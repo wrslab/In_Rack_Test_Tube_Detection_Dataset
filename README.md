@@ -5,8 +5,13 @@ This repository contains the datasets, models, test results and for the paper "A
 ## Changelog
 [Oct 2022] Initial release of TubeDet
  
+## Setup
+Check [YOLOv5](https://github.com/ultralytics/yolov5) repo for details
+
+**Note**: Results in the paper is based on the [val.py](https://github.com/ultralytics/yolov5/blob/master/val.py) provided by YOLOv5
+ 
 ## Datasets and Weights
-The datasets used in the Table II of the paper.
+The datasets and weights used in the Table II of the paper.
 
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
@@ -20,7 +25,8 @@ The datasets used in the Table II of the paper.
 
 ---
 
-The datasets used in the Table III of the paper.
+The datasets and weights used in the Table III of the paper.
+
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
 |RO800+SR200| | 
@@ -33,7 +39,8 @@ The datasets used in the Table III of the paper.
 
 ---
 
-The datasets used in the Table IV of the paper.
+The datasets and weights used in the Table IV of the paper.
+
 | Params,(T,t)| Dataset links | Weight links |
 | :----: | :----: | :----: |
 |(10,.10)| | |
@@ -47,7 +54,8 @@ The datasets used in the Table IV of the paper.
 
 ---
 
-The datasets used in the Table V of the paper.
+The datasets and weights used in the Table V of the paper.
+
 | #Caps| Dataset links | Weight links |
 | :----: | :----: | :----: |
 |200| | |
@@ -57,7 +65,8 @@ The datasets used in the Table V of the paper.
  
 ---
 
-The datasets used in the Table VI of the paper.
+The datasets and weights used in the Table VI of the paper.
+
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
 |SB200+SR800| | 
