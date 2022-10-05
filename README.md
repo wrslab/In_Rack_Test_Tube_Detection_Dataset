@@ -5,7 +5,7 @@ This repository contains the datasets, models, test results and for the paper "A
 ## Changelog
 [Oct 2022] Initial release of TubeDet
  
-## Dataset
+## Datasets and Weights
 | Dataset Names| Dataset links |
 | :----: | :----: |  
 |RO1600| | |
@@ -18,16 +18,26 @@ This repository contains the datasets, models, test results and for the paper "A
 ---
 
 Table I
-| Dataset Names| Dataset links | Weight Links |
-| :----: | :----: | :----: |
+| Dataset Names| | Weight Links |
+| :----: | :----: |
 
 
 Table II
+| Dataset Names| | Weight Links |
+| :----: | :----: |
 
 Table III
+| Dataset Names| | Weight Links |
+| :----: | :----: |
 
 Table IV
+| Dataset Names| | Weight Links |
+| :----: | :----: |
 
 Table V
+| Dataset Names| | Weight Links |
+| :----: | :----: |
 
 Table VI
+| Dataset Names| | Weight Links |
+| :----: | :----: |
