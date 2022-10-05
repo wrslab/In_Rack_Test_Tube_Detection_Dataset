@@ -60,13 +60,15 @@ The datasets used in the Table V of the paper.
 The datasets used in the Table VI of the paper.
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
+|SB200+SR800| | 
+|SB400+SR800| | |
+|SB600+SR800| | |
+|SB800+SR800| | | 
+|SB1600+SR800| | | 
 |SB800+SR200| | 
 |SB800+SR400| | |
-|SB800+SR800| | |
-|SB800+SR1600| | | 
-|SB800+SR200| | 
-|SB800+SR400| | |
-|SB800+SR800| | |
+|SB800+SR600| | |
+|SB800+SR800| | | 
 |SB800+SR1600| | | 
 
  
