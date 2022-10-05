@@ -6,7 +6,7 @@ This repository contains the datasets, models, test results and for the paper "A
 [Oct 2022] Initial release of TubeDet
  
 ## Datasets and Weights
-The datasets used in the paper (Table I of the paper).
+The datasets used in the paper
 
 | Dataset Names| Dataset links | Full Name | Description |
 | :----: | :----: | :----: |  :----: |  
