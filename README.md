@@ -18,26 +18,26 @@ This repository contains the datasets, models, test results and for the paper "A
 ---
 
 Table I
-| Dataset Names| | Weight Links |
+| Dataset Names| Weight Links |
 | :----: | :----: |
 
 
 Table II
-| Dataset Names| | Weight Links |
+| Dataset Names| Weight Links |
 | :----: | :----: |
 
 Table III
-| Dataset Names| | Weight Links |
+| Dataset Names|Weight Links |
 | :----: | :----: |
 
 Table IV
-| Dataset Names| | Weight Links |
+| Dataset Names|Weight Links |
 | :----: | :----: |
 
 Table V
-| Dataset Names| | Weight Links |
+| Dataset Names| Weight Links |
 | :----: | :----: |
 
 Table VI
-| Dataset Names| | Weight Links |
+| Dataset Names|Weight Links |
 | :----: | :----: |
