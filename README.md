@@ -8,20 +8,26 @@ This repository contains the datasets, models, test results and for the paper "A
 ## Setup
 Check [YOLOv5](https://github.com/ultralytics/yolov5) repo for details
 
-**Note**: Results in the paper is based on the [val.py](https://github.com/ultralytics/yolov5/blob/master/val.py) provided by YOLOv5
- 
+1. Value the weights by 
+```
+python .\val.py --weight [weight_option] --img 1376 --data [val_dataset_yaml]
+``` 
+Change the `[weight_option]` to the path of the weight and change the `[val_dataset_yaml]` to the yaml file of the testing data
+
+2. Value 
+
 ## Datasets and Weights
 The datasets and weights used in the Table II of the paper.
 
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
-|CL200| | 
-|RO1600| | |
-|SR1600| | |
-|SB1600| | |
-|RO1600+SR800| | |
-|RO1600+SB800| | |
-|SR800+SB800| | | 
+|CL200| [Google Drive](https://drive.google.com/file/d/1o_GysrCxgZ4evxOy9U1NoqxmBXhzqCAx/view?usp=sharing) |[Google Drive]() | 
+|RO1600| [Google Drive](https://drive.google.com/file/d/1bclJbhRXgGiRFjk2ZY1Ec_o33hQ__15v/view?usp=sharing)|[Google Drive]() |
+|SR1600| [Google Drive](https://drive.google.com/file/d/1daTh6-bJmTEB591Habbsmqf2PSqsj6AA/view?usp=sharing)|[Google Drive](https://drive.google.com/file/d/1HHdR2EPa3tlNSJkYzUfaZNNzlgxKqRw5/view?usp=sharing) |
+|SB1600| [Google Drive]()|[Google Drive]() |
+|RO1600+SR800| [Google Drive]()|[Google Drive]() |
+|RO1600+SB800| [Google Drive]()|[Google Drive]() |
+|SR800+SB800| [Google Drive]()|[Google Drive]() |
 
 ---
 
