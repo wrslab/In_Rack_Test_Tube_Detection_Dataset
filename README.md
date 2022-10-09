@@ -64,10 +64,10 @@ The datasets and weights used in the Table V of the paper.
 
 | #Caps| Dataset links | Weight links |
 | :----: | :----: | :----: |
-|200| | |
 |400| | |
 |800| | |
-|1600| [Google Drive](https://drive.google.com/file/d/1b0EkzFMlH7smpIH_jaBBXfiAuspLCQxB/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1_Tt9h6ojqrt9UtJ4K5IKLTcr4IuJq4DI/view?usp=sharing)| 
+|1600| | |
+|3200| [Google Drive](https://drive.google.com/file/d/1b0EkzFMlH7smpIH_jaBBXfiAuspLCQxB/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1_Tt9h6ojqrt9UtJ4K5IKLTcr4IuJq4DI/view?usp=sharing)| 
  
 ---
 
