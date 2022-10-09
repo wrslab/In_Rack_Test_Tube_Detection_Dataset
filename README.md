@@ -22,10 +22,10 @@ The datasets and weights used in the Table II of the paper.
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
 |CL200| [Google Drive](https://drive.google.com/file/d/1o_GysrCxgZ4evxOy9U1NoqxmBXhzqCAx/view?usp=sharing) |[Google Drive]() | 
-|RO1600| [Google Drive](https://drive.google.com/file/d/1bclJbhRXgGiRFjk2ZY1Ec_o33hQ__15v/view?usp=sharing)|[Google Drive]() |
+|RO1600| [Google Drive](https://drive.google.com/file/d/1bclJbhRXgGiRFjk2ZY1Ec_o33hQ__15v/view?usp=sharing)|[Google Drive](https://drive.google.com/file/d/1AG2f6lc4VtoxhoXVwDIqCRV-rSL8N4jA/view?usp=sharing) |
 |SR1600| [Google Drive](https://drive.google.com/file/d/1daTh6-bJmTEB591Habbsmqf2PSqsj6AA/view?usp=sharing)|[Google Drive](https://drive.google.com/file/d/1HHdR2EPa3tlNSJkYzUfaZNNzlgxKqRw5/view?usp=sharing) |
 |SB1600| [Google Drive]()|[Google Drive]() |
-|RO1600+SR800| [Google Drive]()|[Google Drive]() |
+|RO1600+SR800| [Google Drive]()|[Google Drive](https://drive.google.com/file/d/1KmowYCw21mH6TRPa2XQ4xH-_49FAYAmq/view?usp=sharing) |
 |RO1600+SB800| [Google Drive]()|[Google Drive]() |
 |SR800+SB800| [Google Drive]()|[Google Drive]() |
 
@@ -75,15 +75,15 @@ The datasets and weights used in the Table VI of the paper.
 
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
-|SB200+SR800| | 
-|SB400+SR800| | |
-|SB600+SR800| | |
-|SB800+SR800| | | 
-|SB1600+SR800| | | 
-|SB800+SR200| | 
-|SB800+SR400| | |
-|SB800+SR600| | |
-|SB800+SR800| | | 
-|SB800+SR1600| | | 
+|SB200+SR800| [Google Drive]() | [Google Drive]()|
+|SB400+SR800| [Google Drive]()| [Google Drive]()|
+|SB600+SR800| [Google Drive](https://drive.google.com/file/d/1vg3JWr4QzDVV8waiAllT8-G4prv7tD3L/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1Zh6zCpn9ZZiuOhfZtDnHvp4oVNRVkT0r/view?usp=sharing) |
+|SB800+SR800| [Google Drive]()| [Google Drive]()| 
+|SB1600+SR800| [Google Drive](https://drive.google.com/file/d/1zhFkIADevgVDdvcVpJ6V_dJPjxUF3Bw-/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1BeCMifrb4nj5WZO-kF-qFWGK_0dGTUry/view?usp=sharing)| 
+|SB800+SR200| [Google Drive](https://drive.google.com/file/d/1OQyIEN3ylzVpGz--dFjv725McUl4i9Yt/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1vg3JWr4QzDVV8waiAllT8-G4prv7tD3L/view?usp=sharing)| 
+|SB800+SR400| [Google Drive](https://drive.google.com/file/d/11zcDCVs-PgJ5P7fp11u5JdsSblo13R56/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1wQsvuyjEhH6bVr-mu0hRpNAQL6p7-IwC/view?usp=sharing)|
+|SB800+SR600| [Google Drive]()| [Google Drive]()|
+|SB800+SR800| [Google Drive]()| [Google Drive]()| 
+|SB800+SR1600| [Google Drive]()| [Google Drive]()| 
 
  
