@@ -55,8 +55,8 @@ The datasets and weights used in the Table IV of the paper.
 |(40,.10)| | |
 |(30,.20)| | |
 |(30,.40)| | |
-|(30,.60)| | |
-|(30,.80)| | |
+|(30,.60)| [Google Drive](https://drive.google.com/file/d/16-lLsoQaxdndZRKcX4KFo9CFm69OCvQ3/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1aaPNMDYSYnvjsDWC3iB_uLZbZxtNvDdo/view?usp=sharing)|
+|(30,.80)| [Google Drive](https://drive.google.com/file/d/106cPWysI56nv_C_3xDABxatPIGjv7AEW/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1y44XvwGUkkSPir61OA8IRbx33hMoIvQE/view?usp=sharing)|
 
 ---
 
