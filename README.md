@@ -27,7 +27,7 @@ The datasets and weights used in the Table II of the paper.
 |SB1600|| |
 |RO1600+SR800| [Google Drive](https://drive.google.com/file/d/1WAXnm7OYBK1xFyrRDs8_icCvfAPB7cGQ/view?usp=sharing)|[Google Drive](https://drive.google.com/file/d/1KmowYCw21mH6TRPa2XQ4xH-_49FAYAmq/view?usp=sharing) |
 |RO1600+SB800| [Google Drive](https://drive.google.com/file/d/1o8B8hQQQa5khTG_OIOa2XwTCoRBmp_IU/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1Y9wuuzRPDFNiv4ODmnJa7cKlxFjtpe7W/view?usp=sharing)|
-|RO1600+SR400+SB400| https://drive.google.com/file/d/1bxhNHoKG7lIWf3eFaQavOztty-CgIAg6/view?usp=sharing|[Google Drive](https://drive.google.com/file/d/1VxFnEsCQuVrzLfJOa3vzQNFr2TB87TuD/view?usp=sharing) |
+|RO1600+SR400+SB400| [Google Drive](https://drive.google.com/file/d/1bxhNHoKG7lIWf3eFaQavOztty-CgIAg6/view?usp=sharing)|[Google Drive](https://drive.google.com/file/d/1VxFnEsCQuVrzLfJOa3vzQNFr2TB87TuD/view?usp=sharing) |
 |SR800+SB800| [Google Drive](https://drive.google.com/file/d/1b0EkzFMlH7smpIH_jaBBXfiAuspLCQxB/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1_Tt9h6ojqrt9UtJ4K5IKLTcr4IuJq4DI/view?usp=sharing)| 
 
 ---
