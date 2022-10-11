@@ -51,7 +51,7 @@ The datasets and weights used in the Table IV of the paper.
 | Params,(T,t)| Dataset links | Weight links |
 | :----: | :----: | :----: |
 |(10,.10)| [Google Drive]()| [Google Drive]()|
-|(20,.10)| [Google Drive](https://drive.google.com/file/d/149lGnaz2ePSJh2kbldaXQMGFyCv_2er0/view?usp=sharing)| Google Drive](https://drive.google.com/file/d/1IAp68JWeKUjYOQCTHo348uWO5AlWKxEv/view?usp=sharing)|
+|(20,.10)| [Google Drive](https://drive.google.com/file/d/149lGnaz2ePSJh2kbldaXQMGFyCv_2er0/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1IAp68JWeKUjYOQCTHo348uWO5AlWKxEv/view?usp=sharing)|
 |(30,.10)| [Google Drive](https://drive.google.com/file/d/1K2pnUW3obE8VaVGGYukWZmQiQZb-q-Le/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1M7U7ry32nplNEoSmnSevDv_OF_nr_X2k/view?usp=sharing)|
 |(40,.10)| [Google Drive]()| [Google Drive]()|
 |(30,.20)| [Google Drive]()| [Google Drive]()|
