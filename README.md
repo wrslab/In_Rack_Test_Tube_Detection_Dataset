@@ -40,8 +40,9 @@ The datasets and weights used in the Table III of the paper.
 |RO800+SR400| [Google Drive](https://drive.google.com/file/d/1s9LjDdTP4ZuoIK2evia3_woCg3JeMsDG/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1hbKwdZhnCbDLKmYp7KtncwVyUYdDiQ3M/view?usp=sharing)|
 |RO800+SR800| [Google Drive](https://drive.google.com/file/d/1jjNfqu9m48pkGQTy0s_VAxQzlHKrmNg-/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1NjBfuyNqvL9aEyI7R9vwDMa0hHzSoFif/view?usp=sharing)|
 |RO800+SR1600| [Google Drive](https://drive.google.com/file/d/1_hTMEwx7mjRFNw1rKI41rE4s4Fv4VHwm/view?usp=sharing)| |
-|RO200+SR800| [Google Drive](https://drive.google.com/file/d/107dy_vu5Dbqx76SIBQziP_6Kr7MmOwnn/view?usp=sharing)| |
+|RO200+SR800| [Google Drive](https://drive.google.com/file/d/107dy_vu5Dbqx76SIBQziP_6Kr7MmOwnn/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1evNx7a47wlwcqnI3VHpuHbsbuAFTSKL0/view?usp=sharing)|
 |RO400+SR800| [Google Drive](https://drive.google.com/file/d/1sSmkcVVtWgLu3y3haOWOBl4hKpkbMvqD/view?usp=sharing) | |
+|RO800+SR800| [Google Drive](https://drive.google.com/file/d/1jjNfqu9m48pkGQTy0s_VAxQzlHKrmNg-/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1NjBfuyNqvL9aEyI7R9vwDMa0hHzSoFif/view?usp=sharing)|
 |RO1600+SR800| [Google Drive](https://drive.google.com/file/d/1WAXnm7OYBK1xFyrRDs8_icCvfAPB7cGQ/view?usp=sharing)|[Google Drive](https://drive.google.com/file/d/1KmowYCw21mH6TRPa2XQ4xH-_49FAYAmq/view?usp=sharing) |
 
 ---
