@@ -37,7 +37,7 @@ The datasets and weights used in the Table III of the paper.
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
 |RO800+SR200| [Google Drive](https://drive.google.com/file/d/1wjTKqBQW6Qu0KEVwFSHBiGwiAlWSw9fA/view?usp=sharing)| |
-|RO800+SR400| [Google Drive](https://drive.google.com/file/d/1s9LjDdTP4ZuoIK2evia3_woCg3JeMsDG/view?usp=sharing)| |
+|RO800+SR400| [Google Drive](https://drive.google.com/file/d/1s9LjDdTP4ZuoIK2evia3_woCg3JeMsDG/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1hbKwdZhnCbDLKmYp7KtncwVyUYdDiQ3M/view?usp=sharing)|
 |RO800+SR800| [Google Drive](https://drive.google.com/file/d/1jjNfqu9m48pkGQTy0s_VAxQzlHKrmNg-/view?usp=sharing)| |
 |RO800+SR1600| [Google Drive](https://drive.google.com/file/d/1_hTMEwx7mjRFNw1rKI41rE4s4Fv4VHwm/view?usp=sharing)| |
 |RO200+SR800| [Google Drive](https://drive.google.com/file/d/107dy_vu5Dbqx76SIBQziP_6Kr7MmOwnn/view?usp=sharing)| |
