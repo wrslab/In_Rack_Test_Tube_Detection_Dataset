@@ -54,7 +54,7 @@ The datasets and weights used in the Table IV of the paper.
 |(10,.10)| [Google Drive](https://drive.google.com/file/d/11qrU6qkvFCZ4vu9LEy158l1g-GiDZbhA/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1o_Khfpxe0UEO4iSXoypnUImtIg7M5rTl/view?usp=sharing)|
 |(20,.10)| [Google Drive](https://drive.google.com/file/d/149lGnaz2ePSJh2kbldaXQMGFyCv_2er0/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1IAp68JWeKUjYOQCTHo348uWO5AlWKxEv/view?usp=sharing)|
 |(30,.10)| [Google Drive](https://drive.google.com/file/d/1K2pnUW3obE8VaVGGYukWZmQiQZb-q-Le/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1M7U7ry32nplNEoSmnSevDv_OF_nr_X2k/view?usp=sharing)|
-|(40,.10)| [Google Drive](https://drive.google.com/file/d/14lru9jLKaaHkdJquJYvoKmQN-Wn8DzU8/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1j9EUaBhTZMnNUstfiO8JbY1JE4IERLjO/view?usp=sharing)|
+|(40,.10)| [Google Drive](https://drive.google.com/file/d/14lru9jLKaaHkdJquJYvoKmQN-Wn8DzU8/view?usp=sharing)|  |
 |(30,.20)| [Google Drive](https://drive.google.com/file/d/1l-yKUKs1Hwz73W2YAPYex4xD2ttkrghm/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1dLY7pBPKIUBBe4BkkUUHUAGYIXvO22NX/view?usp=sharing)|
 |(30,.40)| [Google Drive](https://drive.google.com/file/d/1UWxS2PmXlTKw6KMpxM7in9263M49dGJc/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1x8NJerGezxP__nInmlUjy7HLRT0D-C1M/view?usp=sharing)|
 |(30,.60)| [Google Drive](https://drive.google.com/file/d/16-lLsoQaxdndZRKcX4KFo9CFm69OCvQ3/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1aaPNMDYSYnvjsDWC3iB_uLZbZxtNvDdo/view?usp=sharing)|
