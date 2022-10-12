@@ -76,8 +76,8 @@ The datasets and weights used in the Table VI of the paper.
 
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
-|SB200+SR800| | |
-|SB400+SR800| | |
+|SB200+SR800| [Google Drive](https://drive.google.com/file/d/1E5BUioUtqmev5qrIPXpp40BgE_lPOlTA/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1og021q1ajWo6cFb4-0VcArNgOmlxaXaV/view?usp=sharing)|
+|SB400+SR800| [Google Drive](https://drive.google.com/file/d/13seAmvoGqMM-_KNpYFtNQtbrDctcXeha/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1PwLdCS5Vw0rHBUb9ozFzolyObuh0VDea/view?usp=sharing)|
 |SB600+SR800| [Google Drive](https://drive.google.com/file/d/1vg3JWr4QzDVV8waiAllT8-G4prv7tD3L/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1Zh6zCpn9ZZiuOhfZtDnHvp4oVNRVkT0r/view?usp=sharing) |
 |SB800+SR800| [Google Drive](https://drive.google.com/file/d/1b0EkzFMlH7smpIH_jaBBXfiAuspLCQxB/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1_Tt9h6ojqrt9UtJ4K5IKLTcr4IuJq4DI/view?usp=sharing)| 
 |SB1600+SR800| [Google Drive](https://drive.google.com/file/d/1BeCMifrb4nj5WZO-kF-qFWGK_0dGTUry/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1zhFkIADevgVDdvcVpJ6V_dJPjxUF3Bw-/view?usp=sharing)| 
