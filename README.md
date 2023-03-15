@@ -95,6 +95,8 @@ The datasets and weights used in the Table VI of the paper.
 |SB800+SR800| [Google Drive](https://drive.google.com/file/d/1b0EkzFMlH7smpIH_jaBBXfiAuspLCQxB/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1_Tt9h6ojqrt9UtJ4K5IKLTcr4IuJq4DI/view?usp=sharing)| 
 |SB800+SR1600| [Google Drive](https://drive.google.com/file/d/1FdkHEZSGX9h7dibXWH4iNKudmWphyGaL/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1cv1ZYWzfvknaBIKvxe_N31tMggcQ1LdV/view?usp=sharing)| 
 
+---
+
 The datasets and weights used in the Table x of the paper
 
 [YOLOv3-SPP](https://github.com/ultralytics/yolov3)
