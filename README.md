@@ -107,7 +107,7 @@ The datasets and weights used in the Table x of the paper
 |RO1600+SR800| [Google Drive](https://drive.google.com/file/d/1WAXnm7OYBK1xFyrRDs8_icCvfAPB7cGQ/view?usp=sharing)| |
 |RO1600+SB800| [Google Drive](https://drive.google.com/file/d/1o8B8hQQQa5khTG_OIOa2XwTCoRBmp_IU/view?usp=sharing)|  |
 
-[YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4)
+[YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
 |CL200| [Google Drive](https://drive.google.com/file/d/1o_GysrCxgZ4evxOy9U1NoqxmBXhzqCAx/view?usp=sharing) | | 
