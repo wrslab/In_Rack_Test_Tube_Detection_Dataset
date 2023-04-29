@@ -23,6 +23,8 @@ The testing dataset:
 | Dataset Names| Dataset links |
 | :----: | :----: | 
 |Testing Dataset| [Google Drive](https://drive.google.com/file/d/1FVQVKF1bVyt6lNHOO-lNxjRlPzYg6EyE/view?usp=sharing)|
+|Testing Dataset (for additional ambient lighting)| [Google Drive](https://drive.google.com/file/d/1bYq46E07PX2YxoxxgJWji24i_g2autWw/view?usp=share_link)|
+
 ---
 
 The datasets and weights used in the Table II of the paper.
