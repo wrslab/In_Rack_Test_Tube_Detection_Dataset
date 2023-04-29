@@ -101,8 +101,10 @@ The datasets and weights used in the Table VI of the paper.
 The datasets and weights used in the Table VII of the paper
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
-|_B_| [Google Drive](https://drive.google.com/file/d/1IVfL9btrUVT7l-it_NmLVApe5x9xwBnq/view?usp=share_link) | | 
-|_B+_| [Google Drive](https://drive.google.com/file/d/1gzD6utDQMZ9fpn6fEMA6337AxHqMgysa/view?usp=share_link) | |
+|_B_| [Google Drive](https://drive.google.com/file/d/1IVfL9btrUVT7l-it_NmLVApe5x9xwBnq/view?usp=share_link) | [Google Drive](https://drive.google.com/file/d/1Qcpq4GK5jwPa38lRYwq2CMx7sOWFO0_o/view?usp=share_link)| 
+|_B+_| [Google Drive](https://drive.google.com/file/d/1gzD6utDQMZ9fpn6fEMA6337AxHqMgysa/view?usp=share_link) | [Google Drive](https://drive.google.com/file/d/1VXwuqlruCSmIcaBd6EGeqkWmb8nvuo0U/view?usp=share_link) |
+|RO1600 x Cutmix| [Google Drive](https://drive.google.com/file/d/1bclJbhRXgGiRFjk2ZY1Ec_o33hQ__15v/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1P3BNeANbitxfxF2K8ytYKtVmaGi69Lue/view?usp=share_link) |
+|RO1600 x Mixup| [Google Drive](https://drive.google.com/file/d/1bclJbhRXgGiRFjk2ZY1Ec_o33hQ__15v/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1iZ70D2DLbNuliMsm9UrQCpwxbg9_91aO/view?usp=share_link) |
 
 ---
 
@@ -115,13 +117,12 @@ The datasets and weights used in the Table IX of the paper
 |RO1600| [Google Drive](https://drive.google.com/file/d/1bclJbhRXgGiRFjk2ZY1Ec_o33hQ__15v/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1x-_7TixIa6AuGx2pCNDTDH8D_521NblG/view?usp=share_link)|
 |RO1600+SR400+SB400| [Google Drive](https://drive.google.com/file/d/1bxhNHoKG7lIWf3eFaQavOztty-CgIAg6/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1VPgfNdDfsI-tXKccKDqTAzWkXLeLxiJ7/view?usp=share_link) |
 
-[YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)
+[YOLOv4](https://github.com/iscyy/yoloair)
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
 |CL200| [Google Drive](https://drive.google.com/file/d/1o_GysrCxgZ4evxOy9U1NoqxmBXhzqCAx/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1i7mjNLh5hNBumiP-Xs_iNV9IYdjZNRrX/view?usp=share_link) | 
-|RO1600| [Google Drive](https://drive.google.com/file/d/1bclJbhRXgGiRFjk2ZY1Ec_o33hQ__15v/view?usp=sharing)| 
-[Google Drive](https://drive.google.com/file/d/1HSTU_SMSbdx6wznTBuMb3czZxaQVS8mH/view?usp=share_link)|
-|RO1600+SR400+SB400| [Google Drive](https://drive.google.com/file/d/1bxhNHoKG7lIWf3eFaQavOztty-CgIAg6/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1hBfaOLa3ZsjiJClwTbM_RoWAIa6Ld3PS/view?usp=share_link) |
+|RO1600| [Google Drive](https://drive.google.com/file/d/1bclJbhRXgGiRFjk2ZY1Ec_o33hQ__15v/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1HSTU_SMSbdx6wznTBuMb3czZxaQVS8mH/view?usp=share_link) |
+|RO1600+SR400+SB400| [Google Drive](https://drive.google.com/file/d/1bxhNHoKG7lIWf3eFaQavOztty-CgIAg6/view?usp=sharing)| [Google Drive](https://drive.google.com/file/d/1hBfaOLa3ZsjiJClwTbM_RoWAIa6Ld3PS/view?usp=share_link)| 
 
 [YOLOv5x](https://github.com/ultralytics/yolov5)
 | Dataset Names| Dataset links | Weight links |
