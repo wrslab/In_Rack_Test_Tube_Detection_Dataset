@@ -102,7 +102,7 @@ The datasets and weights used in the Table IX of the paper
 | Dataset Names| Dataset links | Weight links |
 | :----: | :----: | :----: |
 |_B_| [Google Drive](https://drive.google.com/file/d/1IVfL9btrUVT7l-it_NmLVApe5x9xwBnq/view?usp=share_link) | | 
-|_B$_+$_| [Google Drive](https://drive.google.com/file/d/1gzD6utDQMZ9fpn6fEMA6337AxHqMgysa/view?usp=share_link) | |
+|_B+_| [Google Drive](https://drive.google.com/file/d/1gzD6utDQMZ9fpn6fEMA6337AxHqMgysa/view?usp=share_link) | |
 
 ---
 
