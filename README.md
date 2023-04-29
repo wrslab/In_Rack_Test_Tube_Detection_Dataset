@@ -3,6 +3,7 @@
 This repository contains the datasets, models, test results and for the paper "Automatically Prepare Training Data for YOLO Using Robotic In-Hand Observation and Synthesis". We proposed combining robotic in-hand observation and data synthesis to enlarge the limited data set. We first used a robot with a depth sensor to collect images of objects held in the robot's hands and segment the object pictures. Then, we used a copy-paste method to synthesize the segmented objects with rack backgrounds. The collected images and the synthetic ones are combined to train a deep detection neural network. We conducted experiments to compare YOLOv5x detectors trained with images collected using the proposed method and several other methods. The results showed that combined observation and synthetic images led to comparable performance to manual data preparation. They provided a good guide on optimizing data configurations and parameter settings for training detectors. The proposed method required only a single process and was a low-cost way to produce the combined data.
 
 ## Changelog
+[April 2023] Adding new results for TubeDet
 [Oct 2022] Initial release of TubeDet
  
 ## Setup
@@ -97,7 +98,15 @@ The datasets and weights used in the Table VI of the paper.
 
 ---
 
-The datasets and weights used in the Table x of the paper
+The datasets and weights used in the Table IX of the paper
+| Dataset Names| Dataset links | Weight links |
+| :----: | :----: | :----: |
+|_B_| [Google Drive](https://drive.google.com/file/d/1IVfL9btrUVT7l-it_NmLVApe5x9xwBnq/view?usp=share_link) | | 
+|_B$_+$_| [Google Drive](https://drive.google.com/file/d/1gzD6utDQMZ9fpn6fEMA6337AxHqMgysa/view?usp=share_link) | |
+
+---
+
+The datasets and weights used in the Table IX of the paper
 
 [YOLOv3-SPP](https://github.com/ultralytics/yolov3)
 | Dataset Names| Dataset links | Weight links |
